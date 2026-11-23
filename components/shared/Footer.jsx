@@ -227,7 +227,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-4">
 
           <p className="text-black text-sm text-center">
-            © {new Date().getFullYear()} Best Laundry. All Rights Reserved.
+            © 2026 Best Laundry. All Rights Reserved.
           </p>
 
           <a
