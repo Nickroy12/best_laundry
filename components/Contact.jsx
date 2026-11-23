@@ -270,10 +270,9 @@ Additional Message: ${form.message}
                     name="date"
                     value={form.date}
                     onChange={handleChange}
-                    min={new Date().toLocaleDateString("en-CA")}
-                    required
+                    
                     className="w-full bg-transparent px-3 py-3.5 text-sm outline-none"
-                  />
+                 required />
                 </div>
               </div>
 
